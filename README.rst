@@ -6,7 +6,7 @@
    echo " '--'"
 
 @junehan-dev
-   *It's Unix system. I (wanna) Know this.*
+   *It's Unix system. I Know this.*
 
    I basically work based on Unix-like or compatible manuals and some books; *(pdfs actually)*
 
