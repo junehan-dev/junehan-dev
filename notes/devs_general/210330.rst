@@ -1,7 +1,5 @@
-210330
-======
-
-Why I did quit writing blog but git-readmes only?
+Why I did quit writing blog?
+============================
    Just like too much document does harm the software develop itself's originality,
    My writings from other sources is either.
    I wanted writing to be clean and just a fact and occurences also.

@@ -24,6 +24,10 @@ Available in west korea, junehan.dev@gmail.com
 Notes
 -----
 
+- dev_general_ : Thinking and philosophies about developer or development it self, and what im doing.
+
+.. dev_general:: notes/dev_general/README.rst
+
 Repos
 -----
 
