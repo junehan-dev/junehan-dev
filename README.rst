@@ -26,7 +26,7 @@ Notes
 
 - dev_general_ : Thinking and philosophies about developer or development it self, and what im doing.
 
-.. _dev_general:: notes/dev_general/README.rst
+.. _dev_general: notes/dev_general/README.rst
 
 Repos
 -----
