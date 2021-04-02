@@ -217,3 +217,8 @@ Four Principles by *kent beck*
    #. Should have no duplicates in behavior or configuration.
    #. Count of Method, Class, Module to be as less as possible.
 
+Skilled in XP execution convention
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   Basically TDD, If we skilled in Agile and XP execution convention,
+   Writing the Future-expected-General-Code(if it exist) will be replaced to **Writing the concrete code which are Actual in need.**
+
