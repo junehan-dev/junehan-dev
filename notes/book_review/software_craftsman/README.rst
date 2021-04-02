@@ -198,7 +198,7 @@ The Pragmatic way of application Improvement
       *System Change happens by actual Need, and little refactoring continuously upon them.*
 
 Extraordinaries and Well made
------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
    Extraordinary developers pursue even more than the simple and short one.
    They try to find the way not to write even 1 line of code.
    The Great code is the code that needs not to be written.
@@ -243,7 +243,7 @@ General Code
    but rather to be find specific code to find solution, and if needed to be generalized, It can be.
    
 A Code with Craftsmanship and Pragmatism
-----------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
    Code written in Fast doesn't mean dirty code.
    Large Project doesn't mean BDUF(big design up-front), or over-engineering.
    Clean and fine written code is always important.
