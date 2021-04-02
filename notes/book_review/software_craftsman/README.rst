@@ -163,3 +163,97 @@ Three Elements Motivates intellectual worker?
       Sense and feel what I do now is important and making something better.
       Opposite concept of no any understands of things, and doing what someone orders only.
 
+Does Good software takes long?
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   Software craftsman usually mastered execution process sets like TDD,
+   So Following those sets never means to delay in working process.
+   No other software or project will be bottlenecked by typing to them.
+
+When to refactor and how refactoring has to be?
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   1. **When to refactoring?**
+      If Legacy code base affects to new feature,
+      then, before adding the new one, Should refactor those legacy.
+
+      2 Questions before new feature:
+         - Does legacy code base is prepared for applying new feature?
+         - How many code base are need to be modified?
+      If previous 2 question's answer is "no" and "A lot",
+      We should refactor the old one.
+
+   #. **How refactoring has to be?**
+      We have to make legacy to be easily appliable.
+      *Easily to appliable* 
+         Means not change or modify in whole base,
+         But Make minimize the affect from new feature.
+         That is, OCP principle, **(Open to Expansion close to modification)** Refactoring.
+
+The Pragmatic way of application Improvement
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   Refactoring order will better to,
+      1. Make it work,
+      #. then improve gradually.
+
+   Pragmatic way to improve application is,
+      *System Change happens by actual Need, and little refactoring continuously upon them.*
+
+Extraordinaries and Well made
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   Extraordinary developers pursue even more than the simple and short one.
+   They try to find the way not to write even 1 line of code.
+   The Great code is the code that needs not to be written.
+
+   Well written code is,
+      - *simple*
+      - *small*
+      - *able to test*
+      - *easy to understand*
+      - **And Code do what they have to do**
+
+Four Principles by *kent beck*
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   1. Should pass entire test.
+   #. Should be clear, enough expressed, consistent.
+   #. Should have no duplicates in behavior or configuration.
+   #. Count of Method, Class, Module to be as less as possible.
+
+Skilled in XP execution convention
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   Basically TDD, If we skilled in Agile and XP execution convention,
+   Writing the Future-expected-General-Code(if it exist) will be replaced to **Writing the concrete code which are Actual in need.**
+
+Future preparing abstraction: YAGNI
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   Without any reasonables from currect need, Abstractions with concerns like "Have to prepare the future." will make application Trash.
+   Why? We don't know what exact part will need to be modified, so abstraction by more complexity with more appliable code will be generated.
+   *Preparing Application to be evolve, change in someday's Possibilities* could be considered as Smart actions,
+   **But Truth is, at contrast, that much stupid work.**
+
+Before applying design pattern
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   Before applying the pattern,
+   Refactoring which is proper to problem should be tried to make code Simple design and follow the **SOLID principle.**
+   After that, if our refactored solution is simmiar to specific design pattern, We can refactor them to be oriented by that pattern.
+
+General Code
+^^^^^^^^^^^^
+   General code can have more expandabilities then non general ones,
+   But They are complex than specific ones.
+   Must pursuing the General code, that is a thing should never happened.
+   but rather to be find specific code to find solution, and if needed to be generalized, It can be.
+   
+A Code with Craftsmanship and Pragmatism
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   Code written in Fast doesn't mean dirty code.
+   Large Project doesn't mean BDUF(big design up-front), or over-engineering.
+   Clean and fine written code is always important.
+   Clean and fine code will be the base of safe-changing by the need of business.
+   It is best way to help business that to change code in fast speed depends on spec changes.
+
+
+Craftsman's role
+^^^^^^^^^^^^^^^^
+   As a craftsman, our role is to low the price of product while not making issue.
+   To do so, we need to master the Good Execution conventions and stand in Pragmatic.
+   In many different Contexts, We have to understand what each conventions values are.
+
