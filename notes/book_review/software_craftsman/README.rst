@@ -196,3 +196,17 @@ The Pragmatic way of application Improvement
 
    Pragmatic way to improve application is,
       *System Change happens by actual Need, and little refactoring continuously upon them.*
+
+Extraordinaries and Well made
+-----------------------------
+   Extraordinary developers pursue even more than the simple and short one.
+   They try to find the way not to write even 1 line of code.
+   The Great code is the code that needs not to be written.
+
+   Well written code is,
+      - *simple*
+      - *small*
+      - *able to test*
+      - *easy to understand*
+      - **And Code do what they have to do**
+
