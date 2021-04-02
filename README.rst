@@ -34,8 +34,10 @@ Notes
 -----
 
 - dev_general_ : Thinking and philosophies about developer or development it self, and what im doing.
+- book_review_ : Book read and reviews, summaries.
 
 .. _dev_general: ./notes/dev_general
+.. _book_review: ./notes/book_review
 
 Repos
 -----
