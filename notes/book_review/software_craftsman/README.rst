@@ -222,3 +222,17 @@ Skilled in XP execution convention
    Basically TDD, If we skilled in Agile and XP execution convention,
    Writing the Future-expected-General-Code(if it exist) will be replaced to **Writing the concrete code which are Actual in need.**
 
+Before applying design pattern
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   Before applying the pattern,
+   Refactoring which is proper to problem should be tried to make code Simple design and follow the **SOLID principle.**
+   After that, if our refactored solution is simmiar to specific design pattern, We can refactor them to be oriented by that pattern.
+
+General Code
+^^^^^^^^^^^^
+   General code can have more expandabilities then non general ones,
+   But They are complex than specific ones.
+   Must pursuing the General code, that is a thing should never happened.
+   but rather to be find specific code to find solution, and if needed to be generalized, It can be.
+   
+
