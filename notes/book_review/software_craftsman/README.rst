@@ -242,3 +242,11 @@ General Code
    Must pursuing the General code, that is a thing should never happened.
    but rather to be find specific code to find solution, and if needed to be generalized, It can be.
    
+A Code with Craftsmanship and Pragmatism
+----------------------------------------
+   Code written in Fast doesn't mean dirty code.
+   Large Project doesn't mean BDUF(big design up-front), or over-engineering.
+   Clean and fine written code is always important.
+   Clean and fine code will be the base of safe-changing by the need of business.
+   It is best way to help business that to change code in fast speed depends on spec changes.
+
