@@ -188,3 +188,11 @@ When to refactor and how refactoring has to be?
          But Make minimize the affect from new feature.
          That is, OCP principle, **(Open to Expansion close to modification)** Refactoring.
 
+The Pragmatic way of application Improvement
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   Refactoring order will better to,
+      1. Make it work,
+      #. then improve gradually.
+
+   Pragmatic way to improve application is,
+      *System Change happens by actual Need, and little refactoring continuously upon them.*
