@@ -163,3 +163,10 @@ Three Elements Motivates intellectual worker?
       Sense and feel what I do now is important and making something better.
       Opposite concept of no any understands of things, and doing what someone orders only.
 
+Does Good software takes long?
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   Software craftsman usually mastered execution process sets like TDD,
+   So Following those sets never means to delay in working process.
+   No other software or project will be bottlenecked by typing to them.
+
+
