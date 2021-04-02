@@ -210,3 +210,10 @@ Extraordinaries and Well made
       - *easy to understand*
       - **And Code do what they have to do**
 
+Four Principles by *kent beck*
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   1. Should pass entire test.
+   #. Should be clear, enough expressed, consistent.
+   #. Should have no duplicates in behavior or configuration.
+   #. Count of Method, Class, Module to be as less as possible.
+
