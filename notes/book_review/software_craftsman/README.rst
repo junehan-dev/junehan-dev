@@ -222,6 +222,13 @@ Skilled in XP execution convention
    Basically TDD, If we skilled in Agile and XP execution convention,
    Writing the Future-expected-General-Code(if it exist) will be replaced to **Writing the concrete code which are Actual in need.**
 
+Future preparing abstraction: YAGNI
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   Without any reasonables from currect need, Abstractions with concerns like "Have to prepare the future." will make application Trash.
+   Why? We don't know what exact part will need to be modified, so abstraction by more complexity with more appliable code will be generated.
+   *Preparing Application to be evolve, change in someday's Possibilities* could be considered as Smart actions,
+   **But Truth is, at contrast, that much stupid work.**
+
 Before applying design pattern
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
    Before applying the pattern,
