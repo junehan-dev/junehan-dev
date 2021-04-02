@@ -8,9 +8,8 @@ Tags
 
 INDEX
 -----
-
-210330_ : *writing, workflow*
-   - Why I did quit writing blog?
-   - how to refactor easy or how to approach?
+   1. 210330_ : *writing, workflow*
+      - Why I did quit writing blog?
+      - how to refactor easy or how to approach?
 
 .. _210330: ./210330.rst
