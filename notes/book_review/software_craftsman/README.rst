@@ -169,4 +169,22 @@ Does Good software takes long?
    So Following those sets never means to delay in working process.
    No other software or project will be bottlenecked by typing to them.
 
+When to refactor and how refactoring has to be?
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   1. **When to refactoring?**
+      If Legacy code base affects to new feature,
+      then, before adding the new one, Should refactor those legacy.
+
+      2 Questions before new feature:
+         - Does legacy code base is prepared for applying new feature?
+         - How many code base are need to be modified?
+      If previous 2 question's answer is "no" and "A lot",
+      We should refactor the old one.
+
+   #. **How refactoring has to be?**
+      We have to make legacy to be easily appliable.
+      *Easily to appliable* 
+         Means not change or modify in whole base,
+         But Make minimize the affect from new feature.
+         That is, OCP principle, **(Open to Expansion close to modification)** Refactoring.
 
