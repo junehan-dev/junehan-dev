@@ -1,16 +1,30 @@
 DEV_GENERALS
 ============
 
-Preface
--------
-
-- todo, but *WhatIDid*
-- *think*
-
-INDEX
+2021_
 -----
-   1. 2103_ : 210331 ~ 210331
-   #. 2104_ : <ONGOING...>
 
-.. _2103: ./2103/
-.. _2104: ./2104/
+Book to Read
+^^^^^^^^^^^^
+
+1. *The Pragmatic Programmer*
+#. *Test driven development, kent beck*
+#. *Clean Architecture, Robert.C.Martin*
+
+new skill Expected
+^^^^^^^^^^^^^^^^^^
+
+- *Golang*
+- *Rust*
+
+Skill to improve
+^^^^^^^^^^^^^^^^
+
+- ASM
+- C, GCC, MAKE
+- Real TDD
+- Linux Device Driver
+- Linux Kernel development
+- Git Design to my work flow
+
+.. _2021: ./2021/
