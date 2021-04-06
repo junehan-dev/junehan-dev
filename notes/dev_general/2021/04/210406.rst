@@ -1,0 +1,21 @@
+What I Did today
+----------------
+
+- read *"The Pracgmatic Programms",* from chapter 3(The basic Tools), 4(Pargmatic paranoia).
+- BookBought
+   - *Refactoring*
+   - *Algorithm*
+
+What i should do from now on?
+-----------------------------
+   Lately, i Feel nervous about forgetting things, and feel not im that good.
+      while, In fact i recognize myself as someone who can solve things what any thing required.
+   but that never changes that, i feel also something loosing.
+
+   Recently i read 2 books,(1 is on reading state actually.)
+   i'm feeling that i should do more better and simple in not lazy way.
+      in book, lazy is good because of design by contract.
+      but im developer who writes them.
+      so i should not.
+
+   i think i need to follow something more **practical practice for this long journey.**
