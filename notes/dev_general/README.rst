@@ -16,6 +16,7 @@ new skill Expected
 
 - *Golang*
 - *Rust*
+- *Deno*
 
 Skill to improve
 ^^^^^^^^^^^^^^^^
