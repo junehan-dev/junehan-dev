@@ -16,7 +16,6 @@ new skill Expected
 
 - *Golang*
 - *Rust*
-- *Deno*
 
 Skill to improve
 ^^^^^^^^^^^^^^^^
@@ -26,6 +25,6 @@ Skill to improve
 - Real TDD
 - Linux Device Driver
 - Linux Kernel development
-- Git Design to my work flow
+- Git Design and philosophy as my work flow
 
 .. _2021: ./2021/
