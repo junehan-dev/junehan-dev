@@ -1,0 +1,25 @@
+What I Did today
+----------------
+
+- read *"The Pracgmatic Programms",* from chapter 5 to 5.28.
+   5: Bend or Break
+      5.28: temporal couplig
+- read *Pro Git*
+
+Plan on next day
+----------------
+
+- Read from start of book "The C Programming language" by K&R For reason to solve the practices as a big project to master.
+   1. Make Project in c-books-KnR as Practices
+   #. Make some milestones of that project. Chapter by chapter.
+   #. Make issue for each practice, and make them to cover the milestone
+
+Why read Pro git at this point?
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   Despite of my ability, I found understand deeply to entire software program is best way to keep myself at good state.
+   So, I'm planning to have my work flow just to fit perfectly, so that my workflow explains the git(as VCS)'s own philosophy.
+   I started reading the from start Preface from 2 author.
+      Becuase programming abillity is not just depend on Formulas but rather to Insight and Sevice Design ability.
+   I think i would not summarize git's content. it would be better to act and Acquire those ability.
+
+
