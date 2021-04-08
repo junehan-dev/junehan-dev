@@ -1,7 +1,7 @@
 What I Did today
 ----------------
 
-- read *"The Pracgmatic Programms",* from chapter 3(The basic Tools), 4(Pargmatic paranoia).
+- read *"The Pragmatic Programmer",* chapter 3(The basic Tools) and  4(Pargmatic paranoia).
 - BookBought
    - *Refactoring*
    - *Algorithm*

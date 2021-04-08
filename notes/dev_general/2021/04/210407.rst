@@ -1,7 +1,7 @@
 What I Did today
 ----------------
 
-- read *"The Pracgmatic Programms",* from chapter 5 to 5.28.
+- read *"The Pragmatic Programmer",* from chapter 5 to 5.28.
    5: Bend or Break
       5.28: temporal couplig
 - read *Pro Git*

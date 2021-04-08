@@ -2,7 +2,7 @@ What I Did today
 ----------------
 
 - Summarized Book *"The Software Craftsman"* to book review.
-- read *"The Pracgmatic Programms",* til chapter 1-3.
+- read *"The Pragmatic Programmer",* til chapter 1-3.
 
 About How Programmer grows
 --------------------------
