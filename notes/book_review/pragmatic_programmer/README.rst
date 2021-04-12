@@ -59,6 +59,32 @@ Junehan
    It yet hard to say what is better programming work or act, and how should we do as.
    But it helped me doing something better at least.
 
-Summary
--------
+
+After Read
+----------
+   I Feel not statisfied with my self.
+   it could be from lack of nice testing.
+   it could be from lack of project branching stratgy.
+   it could be from lack of automations.
+   I think aboves are all right. but at the end of all that practicals, there is only one.
+   *"I Do not feel what i did something better."*
+   
+   i turely liked Albert Einstein's line refered in book,
+   *"Insanity is doing the same thing over and over again and expecting different results."*
+   I guess i did old routines to follow the unix heros without any meaning.
+   writing makefile, writing README, programming in c.
+   that is nice idea. and i'm in admiring for them, and to be like them.
+   but that acts at each moment was actually meaning less.
+   that was like saying "i'm using classic so it will be fine.".
+   but i found that was critical mistake.
+
+   Even if pragmaticism and craftsmanship is made of 50% of Professionalism.
+   another half or more is just acknowlege the needs to be better, and make me move toward to start change myself.
+
+   Need in improvement, change in acknowledgement, after that, my effort.
+   Not best answer but self concisous and regrets, after that, constant act of improving.
+   Invest myself in better way.
+   
+   Last line in book was by Winston Churchill,
+   *Never give up, never give up and never give up.*
 
