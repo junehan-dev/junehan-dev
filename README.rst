@@ -12,15 +12,12 @@ Intro
    echo " '--'"
 
 @junehan-dev
-   *It's Unix system. I Know this.*
-   junehan.dev@gmail.com
-
    I basically work based on Unix-like or compatible manuals and some books; *(pdfs actually)*
 
-   Love writting sweet and kind documents for living.
-   My job is to sends Greet mail back for you, if you send to me some.
+   Love writting and kind documents.
+   love to sends you back Greet mail for you, if you send to me some.
 
-Available in west korea, junehan.dev@gmail.com
+Available in seoul, korea. junehan.dev@gmail.com
    love, 1127.
 
 좋은 소프트웨어를 작성하기 위한 훈련을 거듭중인,

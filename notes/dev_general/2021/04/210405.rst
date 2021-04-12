@@ -1,0 +1,9 @@
+What I Did today
+----------------
+
+- read *"The Pragmatic Programmer",* from 1.6 til before 3(The basic Tools).
+- Added project to "https://github.com/junehan-dev/devs-practice_of_programming/"
+   - Milestone for chapter 3, *Design and implementation*
+      - issue #1, document the intro
+      - issue #2, Follow the 3.1 the markov chain algorithm
+

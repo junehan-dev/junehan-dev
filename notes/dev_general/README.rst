@@ -1,17 +1,30 @@
 DEV_GENERALS
 ============
 
-Avalible tags
-   - *writing*
-   - *workflow*
-   - *--end--*
+2021_
+-----
 
-srcs
-----
+Book to Read
+^^^^^^^^^^^^
 
-210330_ : *writing, workflow*
-   - Why I did quit writing blog?
-   - how to refactor easy or how to approach?
+1. *The Pragmatic Programmer*
+#. *Test driven development, kent beck*
+#. *Clean Architecture, Robert.C.Martin*
 
+new skill Expected
+^^^^^^^^^^^^^^^^^^
 
-.. _210330: srcs/210330.rst
+- *Golang*
+- *Rust*
+
+Skill to improve
+^^^^^^^^^^^^^^^^
+
+- ASM
+- C, GCC, MAKE
+- Real TDD
+- Linux Device Driver
+- Linux Kernel development
+- Git Design and philosophy as my work flow
+
+.. _2021: ./2021/
