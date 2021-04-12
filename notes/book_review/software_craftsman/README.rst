@@ -250,7 +250,6 @@ A Code with Craftsmanship and Pragmatism
    Clean and fine code will be the base of safe-changing by the need of business.
    It is best way to help business that to change code in fast speed depends on spec changes.
 
-
 Craftsman's role
 ^^^^^^^^^^^^^^^^
    As a craftsman, our role is to low the price of product while not making issue.

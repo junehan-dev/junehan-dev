@@ -6,20 +6,21 @@ Index
 
 General
 ^^^^^^^
-   1. *The Software Craftsman* by *Sandro mancuso* **FIN** : 210401_
-      *Professionalism, Pragmatism, Pride* **ONGOING** : 210402-2104_
-   #. *The Pragmatic Programmer* by *Andy hunt & Dave Thomas* **ONGOING** :
+   1. *The Software Craftsman* by *Sandro mancuso* **FIN** : 210322-210401_
+      - *Professionalism, Pragmatism, craftsmanship*
+   #. *The Pragmatic Programmer* by *Andy hunt & Dave Thomas* **FIN** : 210402-210412_
+      - *Professionalism, Pragmatism, self-reflection*
    #. *Refactoring* by *Kent Beck & Martin Fowler* **ONGOING** :
+   #. *Test-Driven Development* by *Kent Beck* **ONGOING** :
    #. *The Secret Life of Programs: Understnad Computers* by *Johnathan Steinhart*
    #. *Clean Code* by *Robert C.Martin*
-   #. *Test-Driven Development* by *Kent Beck*
    #. *Algorithms* by *Robert Sedgewick* 
    #. *Clean Coder* by *Robert C.Martin*
    #. *Clean Architecture* by *Robert C.Martin*
    #. *How to improve Your mathematics* by *nagano hiroyuki*
 
-.. _210401: ./software_craftsman
-.. _210402-2104: ./pragmatic_programmer/
+.. _210322-210401: ./software_craftsman/
+.. _210402-210412: ./pragmatic_programmer/
 
 Technology
 ^^^^^^^^^^
