@@ -3,11 +3,11 @@ What I Did today
 
 - Read *secret life of program* chapter 1.
 - Refatoring 1.5 ~ 1.6 *Spliting level between operation and formatting,* ``0.23a`` updated.
-
+- *KnR* 1-2 examples Finished.
 
 To do on tomorrow
 -----------------
 
-- *KnR* 1-2 examples
-- *Refaotring* 1.5 codes
+- *Refaotring* 1.7 codes
+- *KnR* 1-3 examples
 
