@@ -14,8 +14,8 @@ Intro
 @junehan-dev
    I basically work based on Unix-like or compatible manuals and some books; *(pdfs actually)*
 
-   Love writting and kind documents.
-   love to sends you back Greet mail for you, if you send to me some.
+   Love writting formal and documents.
+   hope to send you back mail for any questions if you send me some.
 
 Available in seoul, korea. junehan.dev@gmail.com
    love, 1127.
@@ -27,8 +27,8 @@ Available in seoul, korea. junehan.dev@gmail.com
 메일 한 통 보내어 의견이나 충고를 더해주시면 충분히 자신과 코드를 검토하는데 더욱 도움이 될 것 같습니다.
 애정가득한 답장으로 마음 돌려드리겠습니다.
 
-Notes
------
+Whats Available Here? Notes
+---------------------------
 
 - dev_general_ : Thinking and philosophies about developer or development it self, and what im doing.
 - book_review_ : Book read and reviews, summaries.
