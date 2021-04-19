@@ -1,0 +1,5 @@
+What I Did today
+----------------
+
+- Read Refactoring from 1~1.4, code at other branches.
+

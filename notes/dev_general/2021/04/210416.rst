@@ -1,0 +1,20 @@
+What I Did today
+----------------
+
+- *KnR* 1-2 chapter, wrote temp_converter program.
+   - *srcs/test_temp_converter.c*
+   - *include/temp_converter.h*
+   - *srcs/temp_converter.c*
+      - ``float fahrtocel(float fahr);``
+         converts argument to celsius
+      - ``float celtofhar(float cel);``
+         converts arg cel to Fahrenheit
+- read intro of *secret life of programs*
+
+To do on tomorrow
+-----------------
+
+- *KnR* 1-2 examples
+- *Refaotring* 1.5 codes
+- read *secret_understand_computer* chapter 1
+

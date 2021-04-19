@@ -1,0 +1,6 @@
+What I Did today
+----------------
+
+- C KNR chapter 1-1 exercise FIN, with src+makefile+readme
+- Expect to read *The Secret of Programs By Johnathan Steinhart*
+- lightweight django's chapter01, "Hello django" finished.
