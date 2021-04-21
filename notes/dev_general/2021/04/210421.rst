@@ -1,0 +1,10 @@
+What I Did today
+----------------
+   - Read *secret life of program* chapter 3, 4
+   - Read *lightweight-django* Chapter 1, Smallest django.
+   - *Refaotring* 1.8 codes (at starbucks 7:30 pm)
+
+What to do next
+---------------
+   - *KnR* 1-5.1 examples
+   - Read *secret life of program* chapter 5
