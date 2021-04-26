@@ -9,3 +9,4 @@ What to do next
 ---------------
    - Read *secret life of program* chpter 5~
    - *KnR* 1-5.4 examples
+   - *Refactoring* 1.9/outtro and chapter 2 start
