@@ -1,0 +1,12 @@
+What I Did today
+----------------
+   - Read *secret life of program* til end of chapter 5
+   - *Refactoring* 1.8/Refactor to use inheritance
+      - if statement branch in 1000 times vs 0.01kb more memory size?
+      - Inheritance is awesome work than if-else-branches.
+
+What to do next
+---------------
+   - Read *secret life of program* chpter 5~
+   - *KnR* 1-5.4 examples
+   - *Refactoring* 1.9/finish chapter 1.
