@@ -1,0 +1,11 @@
+What I Did today
+----------------
+   - *Refactoring* chapter 2.4.4~
+   - *ft_c00* ~ ft_print_comb
+   - Read *programing perls* Intro
+
+What to do next
+---------------
+   - *KnR* 1-6 Array
+   - *Refactoring* chapter 2.4.4~
+
