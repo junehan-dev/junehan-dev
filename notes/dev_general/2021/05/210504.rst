@@ -1,0 +1,10 @@
+What I Did today
+---------------
+   - *Refactoring* chapter 2.5 ~ 2.5.2 (Testing)
+
+What to do next
+----------------
+   - *KnR* 1-9 character arrays
+   - *Refactoring* chapter 2.5.2 ~ (Testing)
+   - ft_print_comb ~
+
