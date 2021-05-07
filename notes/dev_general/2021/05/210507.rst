@@ -1,0 +1,13 @@
+What I Did today
+---------------
+   1. ~ 12:00 *Refactoring* chapter 2.8/Refactoring and Performance
+   #. ~ 13:00 Work, made examination google form.
+   #. ~ 19:00 *KnR* 1-9 character arrays / ft_additionals
+
+What to do next
+---------------
+   1. *Refactoring* finish chapter 2
+   #. *KnR* 1-9 character arrays
+   #. ft_print_comb
+
+
