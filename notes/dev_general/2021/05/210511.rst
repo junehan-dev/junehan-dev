@@ -1,0 +1,10 @@
+What I Did today
+---------------
+   1. 10 ~ 15: Work
+   #. 15 ~ 19: read book...
+
+What to do next
+---------------
+   #. ft_print_comb
+   #. *KnR* 1-10/External_variables_and_scope
+
