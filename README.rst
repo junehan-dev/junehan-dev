@@ -1,9 +1,6 @@
 Overall
 =======
 
-Intro
------
-
 .. code-block:: bash
 
    echo " .--."
@@ -12,20 +9,21 @@ Intro
    echo " '--'"
 
 @junehan-dev
-   I basically work based on Unix-like or compatible manuals and some books; *(pdfs actually)*
+   I basically love culture based on Unix-like and those manuals and books written by 1127 People; *(many pdfs, Thx google)*
+   Love writting formal documents like the way as GNU libs looks.
+   Busy for read books, take walks, and wearing mask(for *orona virus).
 
-   Love writting formal and documents.
-   hope to send you back mail for any questions if you send me some.
-
-Available in seoul, korea. junehan.dev@gmail.com
+   IM Available seoul, korea. junehan.dev@gmail.com
    love, 1127.
 
-좋은 소프트웨어를 작성하기 위한 훈련을 거듭중인,
-커리어에서 자유로움을 가장 중요시하는 개발자 junehan 입니다.
-패키지들을 살펴주시고 방문해 주셨다면 더욱 기쁩니다.
-뭔가 오만함이나 무신경함을 엿보셨다면 그냥 지나치시기 보다는,
-메일 한 통 보내어 의견이나 충고를 더해주시면 충분히 자신과 코드를 검토하는데 더욱 도움이 될 것 같습니다.
-애정가득한 답장으로 마음 돌려드리겠습니다.
+독서와 산책을 하는 junehan 입니다.
+어설픈 패키지들을 살펴주시고 방문해 주셨다면 절망스럽겠습니다.
+Ken Thompson을 좋아해서, C로 작성하는 프로그램을 다룰 때 가장 도전을 느끼고 있습니다.
+부작용이 있다면, 꼰대스러워진다라는 부작용이 좀 있는 것 같습니다.
+올해는 Go는 좀 본격적으로 습득해보고 싶은데 C의 늪에서 빠져나오지 못할 것 같습니다.
+(GCC, Bash, Make, ASM 각 1권 씩 남아있어서 올해 안에 끝날지 의문이네요.)
+아마 Reverse engineering기본을 하면서 올해 C를 마무리 할 수 있지 않을까 싶습니다.
+(덤으로 GNU-스타일 문서를 지향하고 있습니다. 왜 이리 됐을까요...)
 
 Whats Available Here? Notes
 ---------------------------
@@ -36,6 +34,10 @@ Whats Available Here? Notes
 .. _dev_general: ./notes/dev_general
 .. _book_review: ./notes/book_review
 
-Repos
------
+Year Logs
+---------
 
+2021: C, General-books(Refactoring, Pragmatics, Craftmanship, Habits for In good mood, etc...), Go(Expected), Reverse engineering(Expected)
+2020: C, Linux, OLD worktools(Make, ASM, KnR), Arduino, Procedure Programming advocate with out of memory.
+2019: pythoneer, web-app, DDD(Document Driven Development) with Sphinx, Functional Programming advocate with vain.
+before: nodejs, using DB, angularjs (aboves are just used for little times for reserch, don't remember now)
