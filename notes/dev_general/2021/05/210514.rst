@@ -1,0 +1,16 @@
+What I Did today
+----------------
+   1. 10 ~ 11: Read book, Way to coding til death FIN
+   #. 11 ~ 12: Trying to do KnR, Too much generalized functions, 일반적인 함수로 구현하려는 의도가 커지다 보니 라이브러리 만드는데 시간이 너무 커지기 시작했다. 따라서, 단순하게 목적만 달성하는 프로그램을 작성하기로 바꾸었고, 기존 함수들은 모두 삭제했다.
+      - ``ft_strstr``
+      - ``ft_strreplace`` (이 함수가 다른 함수에 의존성 때문에 테스트가 힘들어졌고 계속 작성하는데에 무리가 있었다.)
+      - ``ft_strnchr``
+   #. 12 ~ 13: Take walk, 산책
+   #. 13 ~ 15: read ProGit  
+   #. 16 ~ 18: KnR/External/1-20/entab fin
+   #. 18 ~ 19: read ProGit
+
+What to do next
+---------------
+   #. *KnR* 1-10/External_variables_and_scope/ detab, fold
+
