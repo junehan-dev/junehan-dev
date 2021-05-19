@@ -1,8 +1,8 @@
 What I Did today
 ----------------
    #. 10 ~ 12.5: KnR/1-10/fold program/next_paragraph/Refactoring
-   #. 12 ~ 13: 
-   #. 17 ~ 19:
+   #. 12 ~ 13.5: 산책 조금, 삼성역 -> 삼성중앙역 -> 선릉역
+   #. 13.5 ~ 1: KnR/1-10/fold Program/set_column New (내일 리뷰 건)
 
 What to do next
 ---------------
