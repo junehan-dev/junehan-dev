@@ -1,0 +1,10 @@
+What I Did today
+----------------
+   #. 10 ~ 12.5: KnR/1-10/fold program/next_paragraph/Refactoring
+   #. 12 ~ 13: 
+   #. 17 ~ 19:
+
+What to do next
+---------------
+   1. KnR/1-10/fold/next_column
+   #. Unix/ProgrammingEnv/ch2 Read
