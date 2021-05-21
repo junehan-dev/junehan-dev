@@ -1,0 +1,12 @@
+What I Did today
+----------------
+   #. 10 ~ 12: KnR/1-10/fold program/next_column/FINISHED
+   #. 12 ~ 13: 점심 휴식,
+   #. 13 ~ 17: Work
+   #. 17 ~ 19: Unix/ProgrammingEnv/ch1/FIN
+
+
+What to do next
+---------------
+   1. KnR/1-10/fold/fold_nth_column/INIT
+   #. Unix/ProgrammingEnv/ch2 Read
