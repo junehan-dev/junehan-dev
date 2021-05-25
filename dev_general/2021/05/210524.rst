@@ -1,0 +1,10 @@
+What I Did today
+----------------
+   #. 10 ~ 12: KnR/1-10/fold program/FINISHED
+   #. 12 ~ 14: 점심 휴식
+   #. 14 ~ 19: REFACTORING/3.2~/
+
+What to do next
+---------------
+   1. KnR/2-2/Data types and sizes
+   #. Unix/ProgrammingEnv/ch2 Read
