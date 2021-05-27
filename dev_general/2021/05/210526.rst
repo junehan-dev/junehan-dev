@@ -9,7 +9,7 @@ What I Did today
 What to do next
 ---------------
    1. KnR/1-10/ucomment Make Working
-   1. REFACTORING/ch03/ Finish
+   #. REFACTORING/ch03/ Finish
 
 note
 ----
