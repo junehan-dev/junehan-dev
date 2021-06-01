@@ -3,7 +3,7 @@ What I Did today
    #. 10 ~ 13: REFACTORING/04.1 + starbucks coffeeied
    #. 13 ~ 16: NEW/KnR/2-7/make_random
    #. 16 ~ 17: NEW/KnR/2-7/htoi
-   #. 17 ~ 19: PROGIT/Basics/View_Commit_History ~ Limit Log Output
+   #. 17 ~ 19: PROGIT/Basics/View_Commit_History(log options)
 
 What to do next
 ---------------
