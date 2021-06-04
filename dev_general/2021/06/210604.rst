@@ -1,0 +1,13 @@
+What I Did today
+----------------
+   #. 10 ~ 15: REFACTORING/04.6/Boundary conditions/Codes
+   #. 12 ~ 13: REFACTORING/05(refactoring catalog)/START + starbucks coffeed
+   #. 13 ~ 15: REFACTORING/04.6/Boundary conditions/FIN
+   #. 15 ~ 16: Break
+   #. 16 ~ 19: REFACTOR/KnR/2-7/htoi
+
+What to do next
+---------------
+   #. REFACTOR/KnR/2-7/make_random
+   #. REFACTORING/05(refactoring catalog)/DO~
+
