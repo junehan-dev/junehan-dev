@@ -1,0 +1,13 @@
+What I Did today
+----------------
+   #. 10 ~ 15: Work
+  
+   #. 12 ~ 13: KnR/2-7/make_random, htoi reviewed + starbucks coffeed
+   #. 13 ~ 14: KnR/2-8/squeeze, any/INIT
+   #. 14 ~ 19: Work
+
+What to do next
+---------------
+   #. KnR/2-8/squeeze
+   #. REFACTORING/05(refactoring catalog)/Extract function
+
