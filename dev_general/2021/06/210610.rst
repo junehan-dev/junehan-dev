@@ -1,0 +1,10 @@
+What I Did today
+----------------
+   1. 10 ~ 12: Work
+   #. 12 ~ 13: starbucks coffeed + refactoring/05/Extract function/FIN
+   #. 13 ~ 19: Work
+
+What to do next
+---------------
+   1. REFACTORING/05(refactoring catalog)/inline function
+   #. KnR/2-9/setbits, invert, rightrot
