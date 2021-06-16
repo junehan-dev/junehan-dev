@@ -1,12 +1,13 @@
 Overall
 =======
 
+.. figure:: https://github-readme-stats.vercel.app/api?username=junehan-dev&theme=blue-green&show_icons=true&hide_border=true&count_private=true
 .. code-block:: bash
 
-   echo " .--."
-   echo "/ _.-' .-.  .-.  .-."
-   echo "\  '-. '-'  '-'  '-'"
-   echo " '--'"
+    .--.
+   / _.-' .-.  .-.  .-.
+   \  '-. '-'  '-'  '-'
+    '--'
 
 @junehan-dev
    I basically love culture based on Unix-like and those manuals and books written by 1127 People; *(many pdfs, Thx google)*
