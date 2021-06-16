@@ -10,5 +10,6 @@ What I Did today
 What to do next
 ---------------
    1. REFACTORING/06-Basics/6-Encapsulate_variable
+   #. KnR/2/README/need add some summaries
    #. KnR/3/INIT
 
