@@ -1,0 +1,14 @@
+What I Did today
+----------------
+   1. 10 ~ 11: Break
+   #. 11 ~ 13: starbucks coffeed + KnR/2-10/ft_bitcount/FIN 
+   #. 13 ~ 14: REFACTORING/06-Basics/4-Inline_Variable/FIN
+   #. 14 ~ 17: REFACTORING/06-Basics/5-Change_function_declaration/FIN
+   #. 17 ~ 18: KnR/2-11/Conditional Expressions/Study/FIN
+   #. 18 ~ 19: KnR/2-12/Precedence and Order of Evaluation/Study/FIN
+
+What to do next
+---------------
+   1. REFACTORING/06-Basics/6-Encapsulate_variable
+   #. KnR/3/INIT
+
