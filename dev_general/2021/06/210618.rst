@@ -1,0 +1,11 @@
+What I Did today
+----------------
+   1. 10 ~ 15: Break
+   #. 16 ~ 17: REFACTORING/06-Basics/6-Encapsulate_variable
+   #. 17 ~ 19: KnR/3/INIT
+
+What to do next
+---------------
+   1. REFACTORING/06-Basics/7-Rename_variable
+   #. KnR/3/INIT
+
