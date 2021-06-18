@@ -1,0 +1,11 @@
+What I Did today
+----------------
+   1. 10 ~ 11: Break
+   #. 11 ~ 14: starbucks coffeed + REFACTORING/06-Basics/6-Encapsulate_variable
+   #. 18 ~ 19: Work(OT)
+
+What to do next
+---------------
+   1. REFACTORING/06-Basics/7-Rename_variable
+   #. KnR/3/INIT
+
