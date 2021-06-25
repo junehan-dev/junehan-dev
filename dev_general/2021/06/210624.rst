@@ -1,11 +1,9 @@
 What I Did today
 ----------------
-   1. 13 ~ 15: KnR/3.5-loops/3-3/expand/FIN
-   #. 15 ~ 17: REFACTORING/06-Basics/11-split_phases
+   1. 13 ~ 15: KnR/3.5-loops/3-3/expand/IMPROVED
 
 What to do next
 ---------------
-   1. REFACTORING/07-encapsulate/1-encapsulate_record
+   1. REFACTORING/06-Basics/11-split_phases
    #. KnR/3.5-loops/3-3/expand/refactor
-   #. KnR/3.5-loops/3-4/atoi
 
