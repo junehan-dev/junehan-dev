@@ -1,0 +1,11 @@
+What I Did today
+----------------
+   1. 10 ~ 13: SIMPLE_SOFTWARE/3-simplicity and architect/FIN
+   #. 13 ~ 15: REFACTORING/06-Basics/11-split_phases
+
+What to do next
+---------------
+   1. SIMPLE_SOFTWARE/4-Debugging/START
+   #. REFACTORING/07-encapsulate/1-encapsulate_record
+   #. KnR/3.5-loops/3-4/atoi
+
