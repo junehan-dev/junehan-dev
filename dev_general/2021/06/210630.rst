@@ -1,0 +1,12 @@
+What I Did today
+----------------
+   1. 12 ~ 13: KnR/3.6-loops/3-5/itob
+   #. 13 ~ 14: REFACTORING/07-encapsulate/INTRO
+   #. 17 ~ 19: REFACTORING/07-encapsulate/1-encapsulate_record
+
+What to do next
+---------------
+   1. SIMPLE_SOFTWARE/4-16/Prevent recurrence
+   #. REFACTORING/07-encapsulate/2-encapsulate_collection
+   #. KnR/3.6-loops/3-5/itob
+
