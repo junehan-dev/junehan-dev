@@ -1,0 +1,13 @@
+What I Did today
+----------------
+   1. 11 ~ 13: KnR/3.6-loops/3-5/itob
+   #. 13 ~ 15: KnR/3.6-loops/3-5/itob/BUGFOUND
+   #. 15 ~ 17: REFACTORING/07-encapsulate/1-encapsulate_record
+   #. 17 ~ 19: SIMPLE_SOFTWARE/4-16/Prevent recurrence
+
+What to do next
+---------------
+   1. SIMPLE_SOFTWARE/4-16/Prevent recurrence
+   #. REFACTORING/07-encapsulate/2-encapsulate_collection
+   #. KnR/3.6-loops/3-5/itob/BUGFIX
+
