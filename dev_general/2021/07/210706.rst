@@ -1,0 +1,15 @@
+What I Did today
+----------------
+   1. 10 ~ 12: KnR/3.6-loops/3-6/itoa_format/make work
+   #. 12 ~ 13: SIMPLE_SOFTWARE/5/Working in Engineering team/~5.19
+   #. 15 ~ 16: KnR/3.6-loops/3-6/itoa_format/BUGFIX
+   #. 17 ~ 19: KnR/3.6-loops/3-6/itoa_format/REFACTOR/FIN
+
+What to do next
+---------------
+   1. KnR/3-loops/FIN
+   #. KnR/4-functionRetNonInt/4-1/strrindex/INIT
+   #. SIMPLE_SOFTWARE/5/Working in Engineering team/FIN
+   #. REFACTORING/07-encapsulate/2-encapsulate_collection/Example
+   #. REFACTORING/07-encapsulate/3-Replace_primitive_with_object/Summarize
+
