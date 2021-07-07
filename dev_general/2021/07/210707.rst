@@ -1,0 +1,12 @@
+What I Did today
+----------------
+   1. 10 ~ 13: KnR/3-loops/FIN
+   #. 13 ~ 17: SIMPLE_SOFTWARE/5.20/Methodology for manage complexity in software company
+   #. 17 ~ 19: REFACTORING/07-encapsulate/2-encapsulate_collection/Example
+
+What to do next
+---------------
+   1. KnR/4-functionRetNonInt/4-1/strrindex/INIT
+   #. SIMPLE_SOFTWARE/5.21/Focus on feature while refactoring
+   #. REFACTORING/07-encapsulate/3-Replace_primitive_with_object/Summarize
+
