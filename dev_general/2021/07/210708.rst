@@ -1,0 +1,12 @@
+What I Did today
+----------------
+   1. 10 ~ 13: SIMPLE_SOFTWARE/5.21/FIN
+   #. 13 ~ 15: KnR/4-functionRetNonInt/4-1/strrindex/FIN
+   #. 15 ~ 19: REFACTORING/07-encapsulate/3-Replace_primitive_with_object/FIN
+
+What to do next
+---------------
+   1. SIMPLE_SOFTWARE/5.22/Kindness and the code
+   #. KnR/4-functionRetNonInt/4-2/ft_atof/NEW
+   #. REFACTORING/07-encapsulate/4-Replace_temp_with_Query
+
