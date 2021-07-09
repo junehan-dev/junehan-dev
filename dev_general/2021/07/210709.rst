@@ -1,0 +1,15 @@
+hat I Did today
+----------------
+   1. 10 ~ 12: SIMPLE_SOFTWARE/5.22/Kindness and the code
+   #. 12 ~ 14: SIMPLE_SOFTWARE/5.23/OpenSource Commnunity/FIN
+   #. 14 ~ 16: KnR/4-functionRetNonInt/4-2/ft_atof/Make work
+   #. 16 ~ 19: REFACTORING/07-encapsulate/4-Replace_temp_with_Query
+
+What to do next
+---------------
+   1. SIMPLE_SOFTWARE/6/Understanding software
+   #. KnR/4-functionRetNonInt/4-2/ft_atof/FIN
+   #. KnR/4-ExternalVariable/DOC
+   #. KnR/4-ExternalVariable/4-3/?
+   #. REFACTORING/07-encapsulate/5-Extract_Class
+
