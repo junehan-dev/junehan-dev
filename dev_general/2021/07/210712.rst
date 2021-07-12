@@ -1,0 +1,13 @@
+What I Did today
+----------------
+   1. 10 ~ 16: KnR/4-ExternalVariable/4-3/INIT
+   #. 16 ~ 18: SIMPLE_SOFTWARE/6-24/What is Computer?
+   #. 17 ~ 18: SIMPLE_SOFTWARE/6-25/Component of sofware-"structure, action, result"
+   #. 18 ~ 19: REFACTORING/07-encapsulate/4-Replace_temp_with_Query/Example
+
+What to do next
+---------------
+   1. SIMPLE_SOFTWARE/6-26/discriminate_SAR
+   #. KnR/4-ExternalVariable/4-3/ft_calc/SUCCESS
+   #. REFACTORING/07-encapsulate/5-Extract_Class
+
