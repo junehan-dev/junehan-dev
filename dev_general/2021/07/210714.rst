@@ -1,0 +1,14 @@
+What I Did today
+----------------
+   1. 11 ~ 13: KnR/4-ExternalVariable/4-3/ft_calc/stack
+   #. 13 ~ 14: SIMPLE_SOFTWARE/6-27/software_as_knowledge
+   #. 14 ~ 17: REFACTORING/07-encapsulate/6-Inline_class
+   #. 17 ~ 19: SIMPLE_SOFTWARE/6-30/simplicity_and_security
+   #. 17 ~ 19: KnR/4-ExternalVariable/4-3/ft_calc/calc_stack
+
+What to do next
+---------------
+   1. SIMPLE_SOFTWARE/6-31/TDD_and_observation_cycle
+   #. KnR/4-ExternalVariable/4-3/ft_calc/calc_stack
+   #. REFACTORING/07-encapsulate/7-Hide_delegate
+
