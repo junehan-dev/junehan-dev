@@ -1,0 +1,11 @@
+What I Did today
+----------------
+   1. 15 ~ 16: SIMPLE_SOFTWARE/6-31/TDD_and_observation_cycle
+   #. 16 ~ 18: REFACTORING/07-encapsulate/7-Hide_delegate
+
+What to do next
+---------------
+   1. KnR/4-ExternalVariable/4-3/ft_calc/
+   #. SIMPLE_SOFTWARE/6-32/Testing_Philosophy
+   #. REFACTORING/07-encapsulate/8-Remove_middle_man
+
