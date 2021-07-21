@@ -1,0 +1,13 @@
+What I Did today
+----------------
+   1. 10 ~ 12: KnR/4-ExternalVariable/4-4/ft_stack/INIT
+   #. 12 ~ 13: SIMPLE_SOFTWARE/7/GetBetter/7.33/recipe_to_succeed: get_better/FIN
+   #. 13 ~ 16: LINUX/scripts/backup/rsync backup scripts with sync and test
+   #. 16 ~ 17: SIMPLE_SOFTWARE/7/GetBetter/7.34/how_to_find_shits
+   #. 17 ~ 19: REFACTORING/07-encapsulate/9-Substitute_Algorithm
+
+What to do next
+---------------
+   1. KnR/4-ExternalVariable/4-4/ft_stack
+   #. SIMPLE_SOFTWARE/7.35/Power_of_negative
+   #. REFACTORING/08-move_module/1-Move_function
