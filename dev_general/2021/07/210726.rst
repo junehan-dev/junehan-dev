@@ -1,0 +1,14 @@
+What I Did today
+----------------
+   1. 10 ~ 12: KnR/4-ExternalVariable/4-4/ft_stack/stack_stat
+   #. 12 ~ 13: SIMPLE_SOFTWARE/7.37/secret_of_rapid_programming: Not_to_think
+   #. 13 ~ 16: KnR/4-ExternalVariable/4-4/ft_stack/stack_copy, stack_swap
+   #. 17 ~ 19: REFACTORING/08-move_module/1-Move_Method
+
+What to do next
+---------------
+   1. KnR/4-ExternalVariable/4-12/ft_atoi_recursive
+   #. KnR/4-ExternalVariable/4-13/ft_str_reverse_recursive
+   #. SIMPLE_SOFTWARE/7.38/developher's_conceit
+   #. REFACTORING/08-move_module/2-Move_field
+
