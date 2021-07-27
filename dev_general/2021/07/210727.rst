@@ -1,0 +1,12 @@
+What I Did today
+----------------
+   1. 10 ~ 17: KnR/4-ExternalVariable/4~7/extern, static
+   #. 17 ~ 19: SIMPLE_SOFTWARE/7.38/developher's_conceit
+
+What to do next
+---------------
+   1. KnR/4-ExternalVariable/7~11/register...
+   #. KnR/4-ExternalVariable/4-12/ft_atoi_recursive
+   #. SIMPLE_SOFTWARE/7.39/difference_between_consistency_and_uniformity
+   #. REFACTORING/08-move_module/2-Move_field
+
