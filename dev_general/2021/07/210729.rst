@@ -1,0 +1,11 @@
+What I Did today
+----------------
+   1. 14 ~ 17: SIMPLE_SOFTWARE/7.39/difference_between_consistency_and_uniformity
+   #. 17 ~ 19: KnR/4-ExternalVariable/7~9/register, block structure, initialization
+
+What to do next
+---------------
+   1. KnR/4-ExternalVariable/10/Recursion
+   #. SIMPLE_SOFTWARE/7.40/"user tells problem and developer make solution"
+   #. REFACTORING/08-move_module/2-Move_field
+
