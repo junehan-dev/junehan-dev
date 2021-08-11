@@ -1,0 +1,11 @@
+What I Did today
+----------------
+   1. 22 ~ 23: vi_vim/2-Simple Editing/Simple Edits ~ Problem with deletion
+
+What to do next
+---------------
+   1. vi_vim/2-Simple Editing/8~26/Inserting New Text ~ Undo
+   #. KnR/4-ExternalVariable/10/Recursion/ex13
+   #. SIMPLE_SOFTWARE/7.41/immediate self satisfaction = immediate failure
+   #. REFACTORING/08-move_module/2-Move_field
+
