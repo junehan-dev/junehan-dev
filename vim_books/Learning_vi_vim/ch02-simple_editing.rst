@@ -88,3 +88,71 @@ Simple Edits
       *'sometimes your program has a bug.'*
    Once you enter text, you have to be able to change it, delete it, move it, or copy it.
 
+   need typo::
+
+      With a editor you can scrooll the page, move the cursor, delete lines, nisret characters, and more while results of your edits as you make tham.
+      Since they allow you to make changes as you read through a file, much as you would edit a printed copy,
+      screen editors are very popular.
+
+   typo result::
+
+      With a screen editor you can scroll the page, move the cursor, delete lines, insert characters, and more while results of your edits as you make them.
+      Screen editors are very popular since they allow you to make changes as you read through a file, much as you would edit a printed copy.
+
+Appending Text
+--------------
+``a``
+   You can append text at any place in your file with the append command, *a.*
+   You may have noticed that when you press ``i`` to enter insert mode,
+
+   - The cursor doesn't move until after you enter some text,**
+   - By contrast, when you press ``a`` to enter insert mode, the cursor moves one space to the right.
+
+Changing Text
+-------------
+``c``
+   You can replace any text in your file with the change command, *c.*
+   
+   - When the change affects only the current line, *vi* marks the end of the text that will be changed with a ``$`` so that you can see what part of the line is affected
+
+General Form of vi commands
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   In the change commands we've mentioned up to this point, you may have noticed the follwing pattern::
+
+      (command)(text object)
+
+   command is the change command ``c`` and the text object is movement command.
+   But ``c`` is no the only command that requires a text object.
+   The ``d`` command (delete) and the ``y`` (yank) follow this pattern as well.
+
+   Rememeber also that movement commands take numeric arguments, so numbers can be added to the text objects of ``c, d`` and ``y`` commands.
+   For example, ``d2w`` and ``2dw`` are commands to delete two words.
+   With this in mind, you can see that most *vi* commands follow a general pattern::
+
+      (command)(number)(text object)
+
+   When you realize how many combinations are possible in this way, *vi* becomes a powerful editor indeed!
+
+Problems with deletions
+^^^^^^^^^^^^^^^^^^^^^^^
+   - You've deleted the wrong text and you want to get it back.
+      1. simply type ``u`` to undo the last command.
+      2. ``U`` will restore the line to it's pristine state, the way it was before any changes were applied to it.
+      3. By ``p`` command, since *vi* saves the last nine deletions in nine numbered deletion buffers. **(Only work for a deleted line)**
+         - the third deletion back is the one you want to restore, type: ``"3p`` to *put* the contents of buffer number 3 on the line below the cursor.
+     
+Moving Text
+-----------
+   In *vi,* You move text by deleting it and then placing that deleted text elsewhere in the file, like a "cut and paste."
+   Each time you delete a text block, that deletion is temporarily saved in a special buffer.
+
+Copying Text
+------------
+   A yank command copies the selected text into a special buffer, where it is hel until another yank or deletion occurs.
+   Yank is most frequently used with a line of text, because to yank and put a word usually takes longer than simply to insert the word.
+
+   - Yanking uses the same buffer as deleting.
+   - Each new deletion or yank replaces the previous contents of the yank buffer.
+
+Repeating or Undoing Your Last Command
+--------------------------------------
