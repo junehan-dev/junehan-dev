@@ -140,4 +140,19 @@ Problems with deletions
       2. ``U`` will restore the line to it's pristine state, the way it was before any changes were applied to it.
       3. By ``p`` command, since *vi* saves the last nine deletions in nine numbered deletion buffers. **(Only work for a deleted line)**
          - the third deletion back is the one you want to restore, type: ``"3p`` to *put* the contents of buffer number 3 on the line below the cursor.
-        
+     
+Moving Text
+-----------
+   In *vi,* You move text by deleting it and then placing that deleted text elsewhere in the file, like a "cut and paste."
+   Each time you delete a text block, that deletion is temporarily saved in a special buffer.
+
+Copying Text
+------------
+   A yank command copies the selected text into a special buffer, where it is hel until another yank or deletion occurs.
+   Yank is most frequently used with a line of text, because to yank and put a word usually takes longer than simply to insert the word.
+
+   - Yanking uses the same buffer as deleting.
+   - Each new deletion or yank replaces the previous contents of the yank buffer.
+
+Repeating or Undoing Your Last Command
+--------------------------------------
