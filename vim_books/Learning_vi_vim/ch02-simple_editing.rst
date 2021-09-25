@@ -156,3 +156,16 @@ Copying Text
 
 Repeating or Undoing Your Last Command
 --------------------------------------
+   Each edit command that you give is stored in a temporary buffer until you give the next command.
+      For example, if you insert the after a word in your file, the command used to insert the text, along with the text that you entered, is temporarily saved.
+
+Numeric Arguments for Insert commands
+-------------------------------------
+   Except for ``o`` and ``O``, the insert commands just listed (plus i and a) take numeric prefixes.
+   With numeric prefixes, you might use the commands ``i, I, a, A`` to insert a row of underlines or alternating characters.
+      For example, typing ``25a*-`` appends 50 characters (25 pairs of asterisk and hyphen).
+      It's better to repeat only a small string of characters.
+
+   With a numeric prefix, ``r`` replaces that number of characters with a reapeated instance of a single character.
+      For example, in C or Cpp code, to change || to &&, you would place the cursor on the first pipe character and type ``2r&``
+
