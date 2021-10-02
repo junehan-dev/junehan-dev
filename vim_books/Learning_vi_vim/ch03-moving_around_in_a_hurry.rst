@@ -109,3 +109,49 @@ Movement by Searches
 
 Repeating Searches
 ------------------
+   The last pattern that you searched for stays available throughout your editing session.
+   After a search, instead of repeating your original keystrokes, you can use a command to search again for the last pattern:
+
+   - ``n``
+      Repeat search in same direction.
+   - ``N``
+      Repeat search in opposite direction.
+   - ``/ + ENTER``
+      Repeat search forward.
+   - ``? + ENTER``
+      Repeat search backward.
+
+*nowrapscan*
+^^^^^^^^^^^^
+   Sometimes, you want to find a word only if is further ahead::
+
+      You don't want the search to wrap around earlier in the file.
+      vi has an option, wrapscan that controls whether wearches wrap. You can disable wrapping like this,
+
+      :set nowrapscan
+
+   ``:set nowrapscan``:
+      This command doesn't search back to the top when it hits to bottom.
+
+Current Line Searches
+---------------------
+   There are also miniature version of the search commands that operate within the current line.
+   The command ``fx`` moves the cursor to the next instance of the character *x*
+
+   - ``fx``
+      Find and move cursor to next occurence of *x* character in the line.
+   - ``Fx``
+      Find and move cursor to previous occurence of *x* character in the line.
+   - ``tx``
+      Find and move cursor before next occurence of *x* character in the line.
+   - ``Tx``
+      Find and move cursor before previous occurence of *x* character in the line.
+   - ``;``
+      Repeat previous find command in same direction.
+   - ``,``
+      Repeat previous find command in opposite direction.
+
+Movement by line Number
+-----------------------
+   Lines in a file are numbered sequentially, and you can move through a file by specifying line numbers.
+
