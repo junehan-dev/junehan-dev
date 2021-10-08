@@ -1,0 +1,10 @@
+What I Did today
+----------------
+   1. 14 ~ 20: KnR/4-Functions and Program Structure/FIN
+
+What to do next
+---------------
+   1. KnR/5-Pointers and Arrays/INIT
+   #. vi_vim/3/moving in a hurry/FINISH
+   #. REFACTORING/08-move_module/2-Move_field
+
