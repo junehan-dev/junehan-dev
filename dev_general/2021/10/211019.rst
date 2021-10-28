@@ -1,0 +1,10 @@
+What I Did today
+----------------
+   1. 09 ~ 10: KnR/5/2/Read Back
+
+What to do next
+---------------
+   1. KnR/5-1/ft_getint
+   #. vi_vim/3/moving in a hurry/FINISH
+   #. REFACTORING/08-move_module/2-Move_field
+
