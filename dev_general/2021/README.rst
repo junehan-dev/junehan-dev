@@ -9,8 +9,8 @@ Preface
 
 INDEX
 -----
-   1. 2111_ : restart phase, re definites.
-   1. 2110_ : needed time for mood
+   1. 2111_ : joining to programming-phase, re-definites all behinds
+   #. 2110_ : needed time for mood to restart
    #. 2108_ : After quit job
    #. 2107_ : Refactoring, KnR, SimpleSoftware, ProGit
    #. 2106_ : Refactoring, KnR
