@@ -1,0 +1,20 @@
+What I Did today
+----------------
+   1. 08 ~ 10: Work out, breakfast.
+   #. 10 ~ 14: BR/Apprencticeship/What is software craftsmanship?/FIN
+   #. 15 ~ 16: KnR/5/4/Address arithmatic/FIN
+   #. 16 ~ 18: KnR/5/5/Character Pointers and Functions/KeyNote/FIN + my_strcmp_ with KnR's version
+
+.. _my_strcmp: https://github.com/junehan-dev/c-prog-KnR_Collection/pull/114/commits/0f8331bcc22bfd2b1040ed500df43926e53f571f
+
+What to do next
+---------------
+   1. KnR/Exercise.5-3/strcat
+   #. vi_vim/3/moving in a hurry/FINISH
+   #. REFACTORING/08-move_module/2-Move_field
+
+improvements
+------------
+   - KnR/KeyNote is too much descriptive. better to summarize in short way needed.
+   - need to spend more daily time, living as programmer.
+
