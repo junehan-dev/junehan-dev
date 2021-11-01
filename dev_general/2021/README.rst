@@ -9,7 +9,10 @@ Preface
 
 INDEX
 -----
-   1. 2107_ : Refactoring, KnR, SimpleSoftware, ProGit
+   1. 2111_ : restart phase, re definites.
+   1. 2110_ : needed time for mood
+   #. 2108_ : After quit job
+   #. 2107_ : Refactoring, KnR, SimpleSoftware, ProGit
    #. 2106_ : Refactoring, KnR
    #. 2105_ : Refactoring, KnR
    #. 2104_ : Software Craftmanship, The Pragmatic Programmer # NOCODING MONTH
@@ -20,3 +23,6 @@ INDEX
 .. _2105: ./05/
 .. _2106: ./06/
 .. _2107: ./07/
+.. _2108: ./08/
+.. _2110: ./10/
+.. _2111: ./11/
