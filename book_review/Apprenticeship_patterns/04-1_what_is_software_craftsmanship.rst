@@ -39,7 +39,7 @@ What is Software Craftmanship?
 이 책의 생각들은 그 전망에서 시작한다. 따라서 우리가 *software craftsmanship*\이라는 표현을 사용할 때는, 우리는 pracitce united의 커뮤니티를 이야기 하는 것이며,
 아래 가치들을 포함한 것들을 이야기하는 것이다.
 
-   - *Carol Dweck*\의 조사에 따르면, "growth mindset*\, 이는 당신이 준비가 된다면, 당신이 더 잘할 수 있고 모든 것은 개선 될 수 있다는 믿음이다. 
+   - *Carol Dweck*\의 조사에 따르면, *"growth mindset*\, 이는 당신이 준비가 된다면, 당신이 더 잘할 수 있고 모든 것은 개선 될 수 있다는 믿음이다. 
      그녀의 말에 따르면 *"effort is what makes you smart or talented."(Mindeset, p.16)*  그리고 실패는 대부분 다음에 다른 접근을 할때의 보상이 된다라고 한다.
      이것은 우리가 초기부터 주어진 재능 총량이 있고, 실패는 당신이 재능이 부족하다는 주장의 반대이다.
    - 당신의 세상에서 피드백에 대해 대응하고 변화할 필요가 있다. *Atul Gawande*\는 이것을 *"문제를 해결하기 위해, 당신이 하려고 하는 것에 부족함을 인식하는 것"(Better, p.257)*\을 희망하는 것이라고 표현한다.
