@@ -1,0 +1,13 @@
+What I Did today
+----------------
+   1. 13 ~ 16: KnR/Exercise.5-5/strncat, strncpy, strncmp
+	
+What to do next
+---------------
+   1. KnR/Exercise.5-6/KeyNote
+   #. vi_vim/3/moving in a hurry/FINISH
+   #. REFACTORING/08-move_module/2-Move_field
+
+improvements
+------------
+   - I just not still get it.
