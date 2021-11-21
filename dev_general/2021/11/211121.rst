@@ -1,0 +1,17 @@
+What I plan my routine
+----------------------
+   1. 09 ~ 12: mathmatics
+   #. 13 ~ 16: 42 picine
+   #. 17 ~ 20: book, secret life
+	
+What to do next
+---------------
+
+additional topics
+-----------------
+   1. vi_vim/3/moving in a hurry/FINISH
+   #. make, gcc, datastructure. - how to do these things in a day?
+
+improvements
+------------
+   
