@@ -10,10 +10,10 @@ Overall
     '--'
 
 @junehan-dev
-   I basically love culture based on Unix-like and those manuals and books written by 1127 People; *(many pdfs, Thx google)*
-   Love writting formal documents like the way as GNU libs looks.
+   I basically love culture based on Unix-like manuals (mostly GNU manuals) and books written by old fashioned People(or may be just brian kernighan)
+   Love writting formal documents like the way as GNU libs does look like.
    
-   IM Available seoul, korea. junehan.dev@gmail.com
+   Available seoul, korea. junehan.dev@gmail.com
 
 Whats Available Here? Notes
 ---------------------------
@@ -27,7 +27,8 @@ Whats Available Here? Notes
 Year Logs
 ---------
 
-- 2021: C, General-books(Refactoring, Pragmatics, Craftmanship, Habits for In good mood, etc...), Go(Expected), Reverse engineering(Expected)
-- 2020: C, Linux, OLD worktools(Make, ASM, KnR), Arduino, Procedure Programming advocate with out of memory.
-- 2019: pythoneer, web-app, DDD(Document Driven Development) with Sphinx, Functional Programming advocate with vain.
-- before: nodejs, using DB, angularjs (aboves are just used for little times for reserch, don't remember now)
+- 2022: C, Reverse Engineering, libraries, programs, datastructure and algorithm, history of c // freeman? recently. maybe hitchhiker for a c.
+- 2021: C, General-books(Refactoring, Pragmatics, Craftmanship, Habits for In good mood, etc...) // partime job for a technical helper at a software institute
+- 2020: C, Linux, OLD worktools(Make, ASM, KnR), Arduino, Procedure Programming advocate // 42seoul, samsung multicampus
+- 2019: pythoneer, web-app, DDD(Document Driven Development) with Sphinx, Functional Programming advocate(I still dont get that thing, but that sound just cool at this time SO i Pretended to know what that is.. haha)
+- before: nodejs, using DB, angularjs (aboves are just used for little times for reserching, may be don't details from now)
