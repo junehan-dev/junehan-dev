@@ -12,9 +12,7 @@ General
       - *Professionalism, Pragmatism, self-reflection*
    #. *Refactoring* by *Kent Beck & Martin Fowler* **STOPPED/FIN** : 210414-2105_
    #. *The Secret Life of Programs: Understand Computers* by *Johnathan Steinhart* **STOPPED** : 210415-2005_
-   #. *Apprenticeship Patterns* by, *Dave Hoover and Adewale Oshineye* **STOPPED/FIN** : 211027-2111_
-   #. *The Secret Life of Programs: Understand Computers* by *Johnathan Steinhart* **REDO** : 2111-2112_
-   #. *Programming Pearls* by, *Jon bentley* : 2112-2201_
+   #. *Programming Pearls* by, *Jon bentley* 
    #. *Test-Driven Development* by *Kent Beck*
    #. *Clean Code* by *Robert C.Martin*
    #. *Algorithms* by *Robert Sedgewick* 
@@ -26,13 +24,11 @@ General
 .. _210402-210412: ./pragmatic_programmer/
 .. _210414-2005: ./refactoring/
 .. _210415-2005: ./secret_understand_computer/
-.. _211027-2111: ./Apprenticeship_patterns/
-.. _2111-2112: ./secret_understand_computer/
-.. _2112-2201: ./
 
 Technology
 ^^^^^^^^^^
-   1. *The Practice of Programming* by *Brian.W.Kernighan* **STOPPED** :
+   1. *The Practice of Programming* by *Brian.W.Kernighan* **ONGOING** :
+   #. *Expert C Programming: Deep C Secrets* by *Peter van der Linden* **ONGOING** :
    #. *Unix Programming Environment* by *Brian.W.Kernighan & Rob Pike*
    #. *Advanced Programming in the UNIX Environment* by *W.Richard Stevens*
    #. *Operating System Concepts* by *Abraham silbershatz & Peter Baer Galvin & Greg Gagne*
