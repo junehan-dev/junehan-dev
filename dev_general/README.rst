@@ -1,6 +1,13 @@
 DEV_GENERALS
 ============
 
+Programmer Note
+---------------
+
+- learning_\: 학습에 대해서
+
+.. _learning: ./GENERAL_IDEAS/LEARNING.rst
+
 2021_
 -----
 

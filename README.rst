@@ -18,10 +18,10 @@ Overall
 Whats Available Here? Notes
 ---------------------------
 
-- dev_general_ : Thinking and philosophies about developer or development it self, and what im doing.
+- diary_and_generals_ : Thoughts about software and me doing. (*improvements thoughts, plans and regrets.*\)
 - book_review_ : Book read and reviews, summaries.
 
-.. _dev_general: ./dev_general
+.. _diary_and_generals: ./dev_general
 .. _book_review: ./book_review
 
 Year Logs
