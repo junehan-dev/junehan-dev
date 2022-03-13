@@ -27,8 +27,8 @@ Whats Available Here? Notes
 Year Logs
 ---------
 
-- 2022: C, Reverse Engineering, libraries, programs, datastructure and algorithm, history of c // freeman? recently. maybe hitchhiker for a c.
+- 2022: go, Reverse Engineering, datastructure and algorithm... // maybe hitchhiker for a c. // Hanghae99
 - 2021: C, General-books(Refactoring, Pragmatics, Craftmanship, Habits for In good mood, etc...) // partime job for a technical helper at a software institute
-- 2020: C, Linux, OLD worktools(Make, ASM, KnR), Arduino, Procedure Programming advocate // 42seoul, samsung multicampus
-- 2019: pythoneer, web-app, DDD(Document Driven Development) with Sphinx, Functional Programming advocate(I still dont get that thing, but that sound just cool at this time SO i Pretended to know what that is.. haha)
+- 2020: C, Linux, olies(Make, ASM, KnR), Arduino, Procedure Programming advocate // 42seoul, samsung multicampus
+- 2019: python, django web-app, DDD(Document Driven Development) with Sphinx, Functional Programming advocate(I still dont get that thing, but that sound just cool at this time SO i Pretended to know what that is.. haha)
 - before: nodejs, using DB, angularjs (aboves are just used for little times for reserching, may be don't details from now)
