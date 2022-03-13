@@ -1,6 +1,10 @@
 Book Review, "Refactoring" By `Martin Powler'
 =============================================
 
+
+Chpater followed: ~8.2.Move Field
+   https://github.com/junehan-dev/devs-refactoring
+
 Recommodation
 -------------
 
