@@ -6,12 +6,12 @@ Index
 
 General
 ^^^^^^^
-   1. *The Software Craftsman* by *Sandro mancuso* : 210322-210401_
+   1. *The Software Craftsman* by *Sandro mancuso* : 2103-2104_
       - *Professionalism, Pragmatism, craftsmanship*
-   #. *The Pragmatic Programmer* by *Andy hunt & Dave Thomas* : 210402-210412_
+   #. *The Pragmatic Programmer* by *Andy hunt & Dave Thomas* : 2104-2104_
       - *Professionalism, Pragmatism, self-reflection*
-   #. *Refactoring* by *Kent Beck & Martin Fowler* **STOPPED/FIN** : 210414-2105_
-   #. *The Secret Life of Programs: Understand Computers* by *Johnathan Steinhart* **STOPPED** : 210415-2005_
+   #. *Refactoring* by *Kent Beck & Martin Fowler* **STOPPED/FIN** : 2104-2105_
+   #. *The Secret Life of Programs: Understand Computers* by *Johnathan Steinhart* **ONGOIN** : 2203-2205_
    #. *Programming Pearls* by, *Jon bentley* 
    #. *Test-Driven Development* by *Kent Beck*
    #. *Clean Code* by *Robert C.Martin*
@@ -20,10 +20,10 @@ General
    #. *Clean Architecture* by *Robert C.Martin*
    #. *How to improve Your mathematics* by *nagano hiroyuki*
 
-.. _210322-210401: ./software_craftsman/
-.. _210402-210412: ./pragmatic_programmer/
-.. _210414-2005: ./refactoring/
-.. _210415-2005: ./secret_understand_computer/
+.. _2103-2104: ./software_craftsman/
+.. _2104-2104: ./pragmatic_programmer/
+.. _2104-2005: ./refactoring/
+.. _2202-2205: ./secret_understand_computer/
 
 Technology
 ^^^^^^^^^^
