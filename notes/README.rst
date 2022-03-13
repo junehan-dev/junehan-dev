@@ -6,7 +6,7 @@ Programmer Note
 
 - learning_\: 학습에 대해서
 
-.. _learning: ./GENERAL_IDEAS/LEARNING.rst
+.. _learning: ./GENERAL_IDEAS/LEARNING/
 
 2021_
 -----
