@@ -11,15 +11,18 @@ Overall
 @junehan-dev
    seoul, korea. junehan.dev@gmail.com
 
+my blog at https://junehan-dev.github.io here.
+   mainly Thoughts about software and me doing things.
+      - *improvements thoughts, plans and regrets.*
+      - (*and very a few of studies*)
+
 Whats Available Here?
 ---------------------
 
 - TodayIDid_ : Today i Dids sort by year-month and day.
-- diary_: Thoughts about software and me doing. (*improvements thoughts, plans and regrets.*\)
 - book_review_ : Book read and reviews, summaries.
 
 .. _TodayIDid: ./TIL
-.. _diary: ./dev_general/GENERAL_IDEAS/
 .. _book_review: ./book_review
 
 Year Logs
