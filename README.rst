@@ -30,7 +30,7 @@ Whats Available Here?
 Year Logs
 ---------
 
-- 2022: Boot camp - go, Reverse Engineering, datastructure and algorithm... // maybe hitchhiker for a c.
+- 2022: Boot camp - go, datastructure and algorithm... // maybe hitchhiker for a c.
 
 - 2021: Worked for a technical helper at a software institute - *C, General-books(Refactoring, Pragmatics, Craftmanship, Habits for In good mood, etc...)*
 
