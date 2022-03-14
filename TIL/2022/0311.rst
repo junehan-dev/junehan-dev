@@ -1,14 +1,17 @@
-1. 09 ~ 11: Study/DST/Stack
+1. 11 ~ 14: PBL/Algor/Stack/Valid_Parentheses
 
-   - DESC: Long 
-   - REPO: https://
-   - Commits:
+   - DESC: A Program checks parentheses input string is valid or not
+   - PullReq: https://github.com/junehan-dev/Programming_Lectures/pull/21
+      1. PSUEDO // To handle ({}) or (){}
+      #. RUN
+      #. Add input length contraint.
+      #. Brace
+      #. HOTFIX: brace closing order // BUG: ({)}
+      #. FIXED
+      #. HOTFIX: Opening can be repeated. // BUG: (((([]{}[{}]))))
+      #. FIXED
+      #. FIN
 
-      1. https://github.com/junehan-dev/junehan-dev/commit/63f6c3b8a5c415389804693cc6f30d59fd1f8462 
-
-         - INIT
-         - Doc
-         - BoilerPalte
-
-#. 13 ~ 16: Somthing
-
+#. 15 ~ 19: Read Texts about stack(datastructure. no memory)
+#. 22 ~ 01: STUDY/Algorithm/Stack blog's post Wrote.
+   - Repo: https://junehan-dev.github.io/post/study-theories/algorithm/stack/
