@@ -8,6 +8,7 @@
       #. FIN
 
 #. 15 ~ 20: PBL/ALGOR/QUEUE/LEETCODE/circular queue
+
    - DESC: Like ring-buffer, write a class that has ADT of QUEUE with circular implements.
    - PullReq: https://github.com/junehan-dev/Programming_Lectures/pull/25
 
@@ -21,4 +22,5 @@
       #. FIN
 
 #. 22 ~ 02: STUDY/Algorithm/Queue blog's post Wrote.
+
    - Repo: https://junehan-dev.github.io/post/study-theories/algorithm/queue/
