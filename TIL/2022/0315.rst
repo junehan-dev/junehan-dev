@@ -1,0 +1,24 @@
+1. 11 ~ 14: PBL/ALGOR/QUEUE/BJ/cards2
+
+   - DESC: A program that calculates the specific rule of skipping and find out which character will stand last.
+   - PullReq: https://github.com/junehan-dev/Programming_Lectures/pull/23
+      1. DIDNT GET THE SCIRPT, Write some and THINK
+      #. RUN
+      #. BUGFIX
+      #. FIN
+
+#. 15 ~ 20: PBL/ALGOR/QUEUE/LEETCODE/circular queue
+   - DESC: Like ring-buffer, write a class that has ADT of QUEUE with circular implements.
+   - PullReq: https://github.com/junehan-dev/Programming_Lectures/pull/25
+
+      1. DOCUMENT ADT
+      #. METHOD DEFINITIONS
+      #. GETTER SETTER
+      #. enque, isfull
+      #. SPEC CHANGE
+      #. BUGFOUND
+      #. BUGFIX
+      #. FIN
+
+#. 22 ~ 02: STUDY/Algorithm/Queue blog's post Wrote.
+   - Repo: https://junehan-dev.github.io/post/study-theories/algorithm/queue/
