@@ -1,0 +1,8 @@
+1. 11 ~ 15: PBL/ALGOR/QUEUE/PG/42583, 42586
+
+   - DESC: those Programs will be easy to solve if i use ADT Queue or Stack but im no good at using stack and q adt. i just DID used list. but i found that its hard to manipulate data for a complicated problem. Make it use STACK and Queue either
+
+   - Issue(Reopened): https://github.com/junehan-dev/Programming_Lectures/issues/29
+
+      - Make program better. maybe not today, but on sunday?
+
