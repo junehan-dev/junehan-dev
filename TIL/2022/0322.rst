@@ -1,0 +1,13 @@
+DIDS
+----
+
+1. LC/297/Serialize Deserialize Btree
+
+   - DESC: Node Serializes with BFS way and by Queue name workQ which includes nodes to be linked.
+   - PR: https://github.com/junehan-dev/Programming_Lectures/pull/45
+
+2. Mini/New project was added to include 
+
+   - DESC: number of island with recursion.
+   - PR: https://junehan-dev.github.io/post/study-theories/algorithm://github.com/junehan-dev/Programming_Lectures/pull/34 
+
