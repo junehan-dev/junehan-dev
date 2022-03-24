@@ -1,18 +1,13 @@
 DIDS
 ----
 
-1. LC/226/Invert Binary tree
+1. PG/43165/Tree/tagetnumber
 
-   - DESC: invert the binary tree with 2 way bfs(root -> leaf) and dfs(subtree first).
-   - PR: https://github.com/junehan-dev/Programming_Lectures/pull/50
+   - DESC: build a tree with array of natural numbers and calculate how many combination of traverse route's summation are equal to target number
+   - PR: https://github.com/junehan-dev/Programming_Lectures/pull/58
 
-2. LC/108/sorted array to BST
+2. PG/49994/graph/walkpath
 
-   - DESC: converts sorted array in to Binary search tree
-   - PR: https://github.com/junehan-dev/Programming_Lectures/pull/52
-3. LC/110/Balanced Binary tree
-
-   - DESC: Traverse L-to-R Subtree-First-Search for Binary tree to check the height of each subtrees are stable or not.(1diff is fine.)
-   - PR: https://github.com/junehan-dev/Programming_Lectures/pull/54
-
+   - DESC: with specified commands provided, count the unique paths those commands walked through.
+   - PR: https://github.com/junehan-dev/Programming_Lectures/pull/56
 
