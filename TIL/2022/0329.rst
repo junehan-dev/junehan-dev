@@ -1,0 +1,11 @@
+DIDS
+----
+
+1. 3partition-quicksort review and by myself
+
+   - DESC: Study and hand code for a positing and finally its written by my own.
+   - URL: https://junehan-dev.github.io/post/study-theories/algorithm/three_partition_quicksort/
+   - SRC: https://github.com/junehan-dev/Programming_Lectures/blob/PG/PG/42889/three_p_qsort.py
+
+2. I thought, even its not a big issue or actual something. but just taking some time for a whatever plan in a good mood can make me not actula better but really better.
+
