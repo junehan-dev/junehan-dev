@@ -1,0 +1,45 @@
+1. SQL/Book/LEARNING SQL/3.3/FROM and Tables
+
+   .. code-block:: sql
+
+      # EXE 3-1
+      SELECT 
+         actor_id,
+         first_name,
+         last_name
+      FROM actor
+      ORDER BY 3, 2;
+
+      # EXE 3-2
+      SELECT 
+         actor_id,
+         first_name,
+         last_name
+      FROM actor
+      WHERE
+         last_name = "WILLIAMS"
+         OR
+         last_name = "DAVIS";
+
+      # EXE 3-3
+      SELECT
+         DISTINCT(customer_id),
+         rental_date
+      FROM rental
+      WHERE
+         rental_date
+            BETWEEN 
+               DATE("2005-07-05")
+               AND
+               DATE("2005-07-06")
+      ORDER BY rental_date;
+
+      # EXE 3-4
+      SELECT
+         c.email,
+         r.return_date
+      FROM customer AS c
+         INNER JOIN rental AS r
+            ON c.customer_id = r.customer_id
+            WHERE DATE(r.rental_date) = "2005-06-14"
+            ORDER BY 2, 1;
