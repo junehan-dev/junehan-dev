@@ -1,0 +1,46 @@
+1. SQL/Book/LEARNING SQL/5/Joining multiple tables
+
+   .. code-block:: sql
+
+      # EXE 5-1
+      ## Fill the blank
+
+      SELECT
+         c.first_name, c.last_name, a.address, ct.city
+      FROM customer c
+      INNER JOIN address AS a
+      ON c.address_id = a.address_id
+      INNER JOIN city AS ct
+      ON a.city_id = ct.city_id
+      WHERE a.district = "California";
+
+      # EXE 5-2
+      ## Write a query returns title of every film in which an actor with the first_name john appeared
+
+      SELECT DISTINCT(f.title), a.first_name from film f
+      INNER JOIN film_actor fa
+      ON f.film_id = fa.film_id
+      INNER JOIN actor as a
+      ON fa.actor_id = a.actor_id
+      WHERE a.first_name LIKE "%JOHN%";
+
+
+      # EXE 5-3
+      ## Construct query return all addresses
+      ### addresses that are in the same city.
+      ### join address table to itself
+      ### each row should include two different addresses.
+
+      select * from
+      (SELECT count(*) as cnt from address
+      group by city_id) as a
+      where cnt != 1;
+
+      SELECT 
+         a.city_id, a.address, a2.address
+      FROM address AS a
+         INNER JOIN address AS a2
+         ON a.city_id = a2.city_id
+      WHERE a.address != a2.address;
+
+#. Khan/Constructing linear models for real-world relationships/Practices

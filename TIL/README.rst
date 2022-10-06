@@ -1,4 +1,5 @@
 TODOS
 -----
 
-- LEARNING SQL/CH5/Querying Multiple tables
+- LEARNING SQL/CH6/Querying Multiple tables
+- Khan/Recognizing functions

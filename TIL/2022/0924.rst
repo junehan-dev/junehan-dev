@@ -25,3 +25,5 @@
       SELECT *
       FROM customer c 
       WHERE c.first_name LIKE "_A%W%";
+
+#. Khan/Constructing linear models for real-world relationships 
