@@ -1,9 +1,0 @@
-What I Did today
-----------------
-   1. 13 ~ 15: KnR/3.5-loops/3-3/expand/IMPROVED
-
-What to do next
----------------
-   1. REFACTORING/06-Basics/11-split_phases
-   #. KnR/3.5-loops/3-3/expand/refactor
-

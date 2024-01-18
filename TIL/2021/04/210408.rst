@@ -1,7 +1,0 @@
-What I Did today
-----------------
-
-- read *"The Pragmatic Programms",* Chapter 5.29, *That's Just a view.*
-- Wrote Preface of Book Review of *"The Pragmatic Programmer"*
-- read *"Pro GIT"* from *Getting Started* ~ *Git Basics.Moving Files*
-

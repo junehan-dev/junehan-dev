@@ -11,15 +11,12 @@ Overall
 @junehan-dev
    seoul, korea. junehan.dev@gmail.com
 
-
 Whats Available Here?
 ---------------------
 
 - TodayIDid_ : Today i Dids sort by year-month and day.
-- book_review_ : Book read and reviews, summaries.
 
 .. _TodayIDid: ./TIL
-.. _book_review: ./book_review
 
 *my blog at https://junehan-dev.github.io [Korean posts, 개인 블로그]*
 
